@@ -21,6 +21,11 @@ a:hover {
   color: #6633ff;
 }
 
+h2 {
+  color:white;
+  text-align:center;
+}
+
 /* Section Styles */
 
 .main-nav {
@@ -225,8 +230,3 @@ a.social:hover {
     max-width: 1200px;
     margin: 40px auto;
   }
-
-h2 {
-  color:white;
-  text-align:center;
-}

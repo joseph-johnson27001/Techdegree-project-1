@@ -215,3 +215,18 @@ h2 {
   color:white;
   text-align: center;
 }
+
+img.english-breakfast,
+img.pizza {
+  max-width: 100%;
+}
+
+img.big-english-breakfast {
+  margin-top: 50px;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 3px solid white;
+  transition: all .5s;
+  max-width:100%;
+}
